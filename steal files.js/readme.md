@@ -4,6 +4,9 @@ This is used from seytonics video, which has been improved a little bit
 But before you can use this in your P4wnP1 you need to run a few commands:
 
 
+===================================
+
+
 download, install and open puTTY
 
 connect to your p4wnp1 wifi
